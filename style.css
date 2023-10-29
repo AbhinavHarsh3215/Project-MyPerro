@@ -1,0 +1,21 @@
+.logo{
+    background-size: cover;
+    position: relative;
+    
+}
+@media(max-width:768px)
+{
+    .logo{
+        min-height: 30vh;
+    }
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Roboto', sans-serif; 
+}
+p{
+    font-family: 'Roboto', sans-serif;
+
+}
